@@ -1,9 +1,16 @@
 Initial configuration in root folder of project:
-    cmake -S . -B build/
+```
+cmake -S . -B build/
+```
 
 Build:
-    cd build/
-    make
-
+```
+cd build/
+make
+```
 Run:(in build/)
-    ./template    
+```
+./template    
+```
+
+auto submodule installation coming soon
